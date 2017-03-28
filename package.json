@@ -1,0 +1,25 @@
+{
+  "name": "binary-ip",
+  "version": "1.0.0",
+  "description": "Convert an IP address to binary",
+  "license": "MIT",
+  "repository": "ziyaddin/binary-ip",
+  "author": {
+    "name": "Ziyaddin Sadigov",
+    "email": "ziyaddinsadigov@gmail.com",
+    "url": "ziyaddin.github.io"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "ip",
+    "address",
+    "convert",
+    "binary",
+    "ipv4"
+  ],
+  "dependencies": {
+    "is-ip": "^2.0.0"
+  }
+}
