@@ -16,7 +16,7 @@ $ npm install --save binary-ip
 const binaryIp = require('binary-ip');
 
 binaryIp('192.168.43.8');
-/*=> 11000000.10101000.00101011.00001000 */
+//=> 11000000.10101000.00101011.00001000
 ```
 
 
